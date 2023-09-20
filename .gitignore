@@ -2,5 +2,5 @@ venv
 db.sqlite3
 .vscode
 media
-__pycahce__
-**/__pycahce_
+__pycache__
+**/__pycache__
